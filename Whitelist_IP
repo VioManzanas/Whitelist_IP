@@ -1,1 +1,9 @@
-34.168.1.176
+# Core AWS public ranges (required for Slack + most SaaS)
+3.0.0.0/8
+13.0.0.0/8
+18.0.0.0/8
+52.0.0.0/8
+54.0.0.0/8
+# Optional (only if Slack UI still breaks)
+99.86.0.0/16
+99.84.0.0/16
